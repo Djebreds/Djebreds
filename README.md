@@ -17,7 +17,7 @@
   </tbody>
 </table>
 
-# 💻 Tools I've used:
+## 💻 Tools I've used:
 <table>
   <thead>
     <tr>
