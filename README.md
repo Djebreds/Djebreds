@@ -8,8 +8,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=djebreds&amp;show_icons=true&amp;&rank_icon=github" alt="djebreds github stats"></td>
-      <td><img src="https://streak-stats.demolab.com?user=djebreds&theme=dark&background=0D1117&border=30363D&stroke=30363D"></td>
+<!--       <td><img src="https://github-readme-stats.vercel.app/api?username=djebreds&amp;show_icons=true&amp;&rank_icon=github" alt="djebreds github stats"></td> -->
+<!--       <td><img src="https://streak-stats.demolab.com?user=djebreds&theme=dark&background=0D1117&border=30363D&stroke=30363D"></td> -->
     </tr>
     <tr>
       <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=djebreds&layout=compact" alt="djebreds wakatime lang"></td>
